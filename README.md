@@ -37,7 +37,7 @@ Hello, welcome to our second group project, we are writing out own simple UNIX c
 ## Flowchart
 
 ### Author
-Nnachi Kingsley Chima
+Nnachi Kingsley Chima <chimakingsley216@gmail.com>
 Ograh Joshua <ograhjoshua@gmail.com>
 * read (man 2 read)
 * readdir (man 3 readdir)

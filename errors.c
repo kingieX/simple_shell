@@ -1,4 +1,4 @@
-c#include "shell.h"
+#include "shell.h"
 
 /**
  * print_error - prints error messages to standard error
@@ -27,7 +27,7 @@ void print_error(vars_t *vars, char *msg)
 }
 
 /**
- * _puts2 - prints a string to standard error
+ * _puts2 - function that prints a string to standard error
  * @str: string to print
  *
  * Return: void
@@ -47,7 +47,7 @@ void _puts2(char *str)
 }
 
 /**
- * _uitoa - converts an unsigned int to a string
+ * _uitoa - function that converts an unsigned int to a string
  * @count: unsigned int to convert
  *
  * Return: pointer to the converted string

@@ -1,4 +1,3 @@
-#include "shell.h"
 
 /**
  * check_for_builtins - checks if the command is a builtin
